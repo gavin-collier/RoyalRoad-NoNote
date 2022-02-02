@@ -1,0 +1,9 @@
+/* ==UserStyle==
+@name         Royal Road No Note
+@namespace    StylishThemes
+@version      0.1
+@description  No Authors Notes on RR
+@author       Gavin
+.solid.author-note-portlet.portlet {
+    display:none !important
+}
